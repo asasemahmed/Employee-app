@@ -1,4 +1,4 @@
-# that's Employee app created by " Asem ahmed mohamed abdallah " 
+# that's Employee app system created by " Asem ahmed mohamed abdallah " 
 
 # technology -> tkinter , sqlite
 
